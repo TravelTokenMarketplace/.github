@@ -5,7 +5,7 @@
 
   🚀 **Digitizing travel vouchers and services into smart, decentralized Travel Tokens.**
 
-  [Website](https://www.travel-token.net/) • [Camino Network](https://camino.network/)
+  [www.travel-token.net](https://www.travel-token.net/)
 </div>
 
 ---
@@ -15,3 +15,17 @@
 The **Travel Token Marketplace (TTM)** bridges the gap between classic travel distribution and modern Web3 technology. By tokenizing traditional travel vouchers, loyalty rewards, and service vouchers into secure, wallet-ready digital assets, TTM enables travel providers to unlock new revenue streams, optimize distribution, and build direct relationships with travelers.
 
 Through standard-based smart contracts, TTM automates the entire lifecycle of a travel token—from minting and distribution to real-time redemption and burning.
+
+---
+
+## 📬 Get in Touch
+
+Travel Token Marketplace GmbH is headquartered in Hamburg, Germany.
+
+*   **Website:** [travel-token.net](https://www.travel-token.net/)
+*   **Inquiries:** info@travel-token.net
+
+---
+<div align="center">
+  <sub>Travel Token Marketplace GmbH • Hamburg, Germany</sub>
+</div>
